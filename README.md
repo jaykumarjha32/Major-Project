@@ -1,1 +1,1 @@
-# Major-Project
+The Drowsiness Detection Project utilizes computer vision and the dlib library and detect signs of drowsiness in real-time. Upon detecting drowsiness, the system sends an alert notification to a mobile app developed using React Native, leveraging Firebase Realtime Database for instantaneous data transmission. This project aims to enhance safety by providing timely warnings to prevent accidents caused by driver fatigue.
